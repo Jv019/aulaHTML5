@@ -19,4 +19,5 @@ Sou um **Desenvolvedor de Software** com experiência em **Python**, **Java** e 
 - Design e implementação de bancos de dados relacionais.
 
 ## Contato
+EMAIL : vitor00281@gmail.com
 
